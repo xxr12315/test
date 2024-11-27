@@ -1,0 +1,4 @@
+{"sentence1": "ResNet-50", "sentence2": "资源卫星中心", "label": 0}
+{"sentence1": "ResNet-50", "sentence2": "货运卡车", "label": 0}
+{"sentence1": "ResNet-50", "sentence2": "卷积神经网络", "label": 1}
+{"sentence1": "ResNet-50", "sentence2": "神经网络算法", "label": 1}
